@@ -18,7 +18,7 @@
     "@ai-sdk/ui-utils": "^1.2.11",
     "@ai-sdk/xai": "^1.2.16",
     "@babel/runtime": ">=7.27.0",
-    "@daytonaio/sdk": "^0.17.0",
+    "@daytonaio/sdk": "^0.21.3",
     "@e2b/code-interpreter": "^1.5.0",
     "@foobar404/wave": "^2.0.5",
     "@mendable/firecrawl-js": "^1.24.0",
